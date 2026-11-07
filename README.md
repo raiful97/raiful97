@@ -1,20 +1,12 @@
-## Hi there 👋
+<div align="center">
 
+<img src="assets/profile-banner.png" alt="Raiful Islam Ratul | Data Analyst and Business Intelligence" width="100%" />
 
-**raiful97/raiful97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&lines=Turning+Data+into+Business+Insights;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Building+dashboards+for+better+decisions" alt="Typing SVG" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:6A11CB,100:00D4FF&height=210&section=header&text=Raiful%20Islam%20Ratul&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=58&descSize=17" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&lines=Turning+Data+into+Business+Insights;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Building+dashboards+that+support+better+decisions" alt="Typing SVG" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raiful-islam.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiful-islam-ratul/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiful97)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raiful-islam.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiful-islam-ratul/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiful97)
 
 </div>
 
@@ -24,13 +16,25 @@ Here are some ideas to get you started:
 
 I'm **Raiful Islam Ratul**, a Computer Science and Engineering graduate from Chattogram, Bangladesh, focused on **Data Analytics and Business Intelligence**.
 
-I enjoy transforming raw data into meaningful insights, building interactive dashboards, and using data to understand real business problems.
+I enjoy transforming raw data into meaningful insights, building interactive dashboards, and using data to solve real business problems.
 
-- 📊 Interested in data analysis, visualization, and business intelligence
+- 📊 Interested in data analysis, business intelligence, and data visualization
 - 🧰 Working with Excel, Power BI, SQL, and Python
-- 🧠 Exploring machine learning and data warehousing
-- 🎯 Preparing to deepen my Power BI and DAX skills
-- 🌍 Based in Chattogram, Bangladesh
+- 💡 Enjoy exploring business problems through data
+- 🌱 Continuously improving my analytics and data engineering skills
+
+## 🎯 Currently Working On
+
+- Building interactive Power BI dashboards for business reporting
+- Analyzing real-world datasets and developing portfolio projects
+- Improving SQL skills and data storytelling
+
+## 📚 Currently Learning
+
+- Advanced DAX, Power BI data modeling, and dashboard design
+- Google BigQuery and Supabase for modern data workflows
+- Metabase for business analytics and reporting
+- Docker for managing and deploying data projects
 
 ## 🧰 Tech Stack
 
@@ -44,30 +48,30 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 </div>
 
 ## 🚀 Featured Projects
 
-> Replace the repository URLs below with the exact repositories you want to feature. The project titles reflect work and project topics you've discussed; links are intentionally not guessed.
 
-| Project | What it explores | Tools |
-|---|---|---|
-| **IPL Analytics Dashboard** | IPL 2021–2023 team and player performance | Power BI, DAX |
-| **AdventureWorks Sales Dashboard** | Sales performance and business KPIs | Power BI, Power Query |
-| **Furniture Sales Dashboard** | Product sales trends and performance | Power BI |
-| **Bank Marketing Analysis** | Campaign performance and customer conversion | SQL, Power BI |
-| **BdSL Classification** | Bangla Sign Language image classification | Python, Deep Learning |
-| **Personal Expense Tracker** | Income and expense tracking | Excel |
+<div align="center">
 
-## 📚 Currently Learning
+| Project | What it explores | Tools | Repository |
+|:---|:---|:---|:---:|
+| **Task Performance Dashboard** | Task status, productivity, and team performance | Power BI, DAX | [View](https://github.com/raiful97/powerbi-project-task-performance-dashboard) |
+| **National Health Analytics** | Asthma and health data analysis | Power BI, Data Analysis | [View](https://github.com/raiful97/National-Health-Analytics-PowerBI) |
+| **Xmas Sales Dashboard** | Christmas sales trends and customer insights | Power BI, Excel | [View](https://github.com/raiful97/Xmas-Sales-Dashboard) |
+| **IPL Analytics Dashboard** | IPL 2021–2023 team and player performance | Power BI, DAX | Repository link not added |
+| **AdventureWorks Sales Dashboard** | Sales performance and business KPIs | Power BI, Power Query | Repository link not added |
+| **Furniture Sales Dashboard** | Product sales trends and performance | Excel | Repository link not added |
+| **Sport Sales Analysis** | Sports product sales and business performance | Power BI, Business Analysis | [View](https://github.com/raiful97/Sport-sales-analysis-) |
 
-- Advanced SQL: CTEs, window functions, query optimization
-- Power BI: DAX, data modeling, and dashboard storytelling
-- Data Warehousing: modern analytics platforms and ELT concepts
-- Business analysis: turning metrics into practical recommendations
+</div>
+
 
 ## 📊 GitHub Stats
 
@@ -76,7 +80,7 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=raiful97&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Raiful's GitHub stats" />
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiful97&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=raiful97&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=raiful97&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -84,7 +88,7 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/raiful97/raiful97/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/raiful97/raiful97/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
 </div>
 
@@ -97,20 +101,8 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raiful.islam.18062)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raiful.islam.18062/)
 
-</div>
-
-<div align="center">
-
 **Thanks for visiting my profile!**
 
 <img src="https://komarev.com/ghpvc/?username=raiful97&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
 
 </div>
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
