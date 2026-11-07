@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" alt="Raiful Islam Ratul | Data Analyst and Business Intelligence" width="100%" />
+<img src="profile-banner.png" alt="Raiful Islam Ratul | Data Analyst and Business Intelligence" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&lines=Turning+Data+into+Business+Insights;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Building+dashboards+for+better+decisions" alt="Typing SVG" />
 
